@@ -8,11 +8,8 @@ This is my first major java project; I'm very proud of it. That said I know ther
 In the future I am planning on (in no particular order): 
   
   Letting the user choose more options before the application closes. 
-  Adding options to the menu. 
-    An Insert Customer Option
-    More varied queries in general. 
-    Etc. 
-  Cleaning up Exception Handling
+  Adding options to the main menu like an Insert Customer Option and more varied queries in general.
+  Cleaning up Exception Handling. 
   Fixing up result formatting to print out month names/Get dates to read more cleanly. 
   
  
